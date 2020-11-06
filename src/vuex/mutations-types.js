@@ -1,0 +1,1 @@
+export const RECEIVE_COMPANYINFO ='receive_companyinfo'

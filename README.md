@@ -1,24 +1,19 @@
 # app
 
-## Project setup
+## 项目运行
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
+npm serve
 yarn serve
 ```
 
-### Compiles and minifies for production
+### mocke数据
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+路径：./mock
+数据文件：data.json
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 相关技术
+```
+vue、vuex、vue-router、Element-ui、mock.js
+```
+
