@@ -6,7 +6,7 @@ npm serve
 yarn serve
 ```
 
-### mocke数据
+### mock数据
 ```
 路径：./mock
 数据文件：data.json
